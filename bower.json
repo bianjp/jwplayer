@@ -1,0 +1,20 @@
+{
+  "name": "jwplayer",
+  "authors": [
+    "Bian Jiaping <ssbianjp@gmail.com>"
+  ],
+  "description": "JW Player bower wrapper",
+  "main": [
+    "jwplayer.js",
+    "jwplayer.flash.swf"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/bianjp/jwplayer",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
