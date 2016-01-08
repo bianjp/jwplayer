@@ -1,0 +1,19 @@
+{
+  "name": "@bianjp/jwplayer",
+  "version": "7.2.3",
+  "description": "JW Player npm wrapper",
+  "keywords": [
+    "jwplayer"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bianjp/jwplayer.git"
+  },
+  "homepage": "https://github.com/bianjp/jwplayer",
+  "bugs": "https://github.com/bianjp/jwplayer/issues",
+  "author": "Bian Jiaping <ssbianjp@gmail.com> (https://vanitas.me/)",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ]
+}

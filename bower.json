@@ -1,12 +1,14 @@
 {
   "name": "jwplayer",
+  "version": "7.2.3",
   "authors": [
     "Bian Jiaping <ssbianjp@gmail.com>"
   ],
   "description": "JW Player bower wrapper",
   "main": [
-    "jwplayer.js",
-    "jwplayer.flash.swf"
+    "dist/jwplayer.js",
+    "dist/skins/five.css",
+    "dist/jwplayer.flash.swf"
   ],
   "license": "MIT",
   "homepage": "https://github.com/bianjp/jwplayer",
@@ -14,7 +16,8 @@
     "**/.*",
     "node_modules",
     "bower_components",
-    "test",
-    "tests"
+    "tmp",
+    "build.sh",
+    "package.json"
   ]
 }
